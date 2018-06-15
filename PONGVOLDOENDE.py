@@ -5,7 +5,7 @@ import time
  # define arcade screenthings
 WINDOW_WIDTH = 800
 WINDOW_HEIGHT = 600
-WINDOW_TITLE = " Pong1.0"
+WINDOW_TITLE = " Abelton"
 WINDOW_BACKGROUND_COLOR = arcade.color.PINK
 
 
